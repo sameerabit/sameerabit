@@ -6,6 +6,10 @@
 
 ---
 
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark)
+
+---
+
 ## 🔥 About Me  
 I am a **Senior PHP Developer** with **8+ years of experience** in backend and full-stack development. I specialize in Laravel, Symfony, API development, and cloud-based architectures. My expertise includes modern design patterns, event-driven architectures, and DevOps practices.  
 
