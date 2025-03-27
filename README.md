@@ -6,7 +6,7 @@
 
 ---
 
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameerabit&theme=github_dark)
 
 ---
 
